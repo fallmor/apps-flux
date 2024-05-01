@@ -1,5 +1,5 @@
 resources:
-- ../base
 - namespace.yaml
+- ../base
 namePrefix: prod-
 namespace: hotrod-prod

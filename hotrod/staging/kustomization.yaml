@@ -1,5 +1,5 @@
 resources:
-- ../base
 - namespace.yaml
+- ../base
 namePrefix: staging-
 namespace: hotrod-stg
