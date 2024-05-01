@@ -7,7 +7,7 @@ bases:
 # Leaving this uncommented will install both hotrod and an example all-in-one
   - base/
 
-namespace: example-hotrod
 
 resources:
-  - namespace.yaml
+  - staging
+  - prod
